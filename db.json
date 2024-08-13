@@ -1,4 +1,4 @@
-[
+{ "items" : [
     {
         id: 1,
         title: "Sicilian Pizza",
@@ -233,4 +233,4 @@
         isInterest: false,
         category: "Burger",
     },
-]
+]}
